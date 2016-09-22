@@ -4,9 +4,13 @@
 Simple boilerplate application to quickly set up a Meteor application
 running React and the Material UI framework.
 
+## Usage ##
+
+Make sure you have the latest versions of Meteor, Node, and npm installed.
+
 ```console
-git clone
-cd MeteorReactBoilerplate
+git clone https://github.com/gafopi/meteor-react-boilerplate.git
+cd meteor-react-boilerplate
 meteor npm install
 ```
 
